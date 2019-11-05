@@ -31,6 +31,7 @@ http://en-americas-support.nintendo.com/app/answers/detail/a_id/257
 http://en-americas-support.nintendo.com/app/answers/detail/a_id/258/p/430
 http://en-americas-support.nintendo.com/app/answers/detail/a_id/287/p/430
 http://en-americas-support.nintendo.com/app/answers/detail/a_id/403
+http://en-americas-support.nintendo.com/app/answers/detail/a_id/499
 http://en-americas-support.nintendo.com/app/answers/detail/a_id/8261
 http://en-americas-support.nintendo.com/app/answers/landing/p/430
 http://en-americas-support.nintendo.com/app/answers/landing/p/430/
@@ -90,6 +91,7 @@ http://www.nintendo.com
 http://www.nintendo.com/
 http://www.nintendo.com/2ds/new-nintendo-2ds/
 http://www.nintendo.com/2ds/what-is-nintendo-2ds
+http://www.nintendo.com/3ds/built-in-software/miiverse/
 http://www.nintendo.com/3ds/nintendo-network-id
 http://www.nintendo.com/amiibo/compatibility
 http://www.nintendo.com/amiibo/compatibility/
@@ -172,6 +174,7 @@ https://accounts.nintendo.com/term_point
 https://astralchain.nintendo.com/
 https://astralchain.nintendo.com/es/
 https://careers.nintendo.com/
+https://daemonxmachina.nintendo.com/es/
 https://dragonquest.nintendo.com/builders2/
 https://ec.nintendo.com/US/en/membership
 https://ec.nintendo.com/aoc_purchase_confirm?aoc=70050000008421
@@ -349,6 +352,7 @@ https://smashbros.nintendo.com/buy/dlc/
 https://smashbros.nintendo.com/es/buy/dlc/
 https://store.nintendo.com/
 https://store.nintendo.com/ng3/
+https://store.nintendo.com/ng3/browse/category.jsp?categoryId=cat860032
 https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat870084
 https://store.nintendo.com/ng3/browse/subcategory.jsp?categoryId=cat930071
 https://store.nintendo.com/ng3/repair/repairStatusUnRegisteredUser.jsp
@@ -402,6 +406,7 @@ https://www.nintendo.com/#copyrights
 https://www.nintendo.com/#counterfeits
 https://www.nintendo.com/#delayed
 https://www.nintendo.com/#do-all-amiibo-work-with-all-compatible-games-
+https://www.nintendo.com/#dock-section
 https://www.nintendo.com/#domain
 https://www.nintendo.com/#dragon-quest-builders-2
 https://www.nintendo.com/#emulator
@@ -477,6 +482,7 @@ https://www.nintendo.com/#s4q1
 https://www.nintendo.com/#s4q2
 https://www.nintendo.com/#section-accessories
 https://www.nintendo.com/#section-features
+https://www.nintendo.com/#section-games-accessories
 https://www.nintendo.com/#section-new-nintendo-2ds-xl
 https://www.nintendo.com/#section-nintendo-2ds
 https://www.nintendo.com/#section-nintendo-switch-lite
@@ -646,6 +652,7 @@ https://www.nintendo.com/amiibo/detail/bayonetta-player-2-amiibo-super-smash-bro
 https://www.nintendo.com/amiibo/detail/blathers-amiibo-animal-crossing-series
 https://www.nintendo.com/amiibo/detail/bokoblin-amiibo-the-legend-of-zelda-series
 https://www.nintendo.com/amiibo/detail/boo-amiibo-super-mario-series
+https://www.nintendo.com/amiibo/detail/bowser-jr-amiibo-super-smash-bros-series
 https://www.nintendo.com/amiibo/detail/bowser-wedding-outfit-amiibo-super-mario-odyssey-series
 https://www.nintendo.com/amiibo/detail/callie-amiibo-splatoon-series
 https://www.nintendo.com/amiibo/detail/captain-falcon-amiibo-super-smash-bros-series
@@ -657,6 +664,7 @@ https://www.nintendo.com/amiibo/detail/chrom-amiibo-fire-emblem-series
 https://www.nintendo.com/amiibo/detail/cloud-player-2-amiibo-super-smash-bros-series
 https://www.nintendo.com/amiibo/detail/corrin-player-2-amiibo-super-smash-bros-series
 https://www.nintendo.com/amiibo/detail/daisy-amiibo-super-mario-series
+https://www.nintendo.com/amiibo/detail/daisy-amiibo-super-smash-bros-series
 https://www.nintendo.com/amiibo/detail/daruk-amiibo-the-legend-of-zelda-series
 https://www.nintendo.com/amiibo/detail/delicious-amiibo
 https://www.nintendo.com/amiibo/detail/diddy-kong-amiibo-super-mario-series
@@ -826,10 +834,12 @@ https://www.nintendo.com/amiibo/games/detail/mario-tennis-ultra-smash-wii-u
 https://www.nintendo.com/amiibo/games/detail/mega-man-legacy-collection-3ds
 https://www.nintendo.com/amiibo/games/detail/metroid-prime-federation-force-3ds
 https://www.nintendo.com/amiibo/games/detail/metroid-samus-returns-3ds
+https://www.nintendo.com/amiibo/games/detail/miitopia-3ds
 https://www.nintendo.com/amiibo/games/detail/mini-mario-and-friends-amiibo-challenge-wii-u
 https://www.nintendo.com/amiibo/games/detail/monster-hunter-stories-3ds
 https://www.nintendo.com/amiibo/games/detail/picross-3d-round-2-3ds
 https://www.nintendo.com/amiibo/games/detail/pokken-tournament-dx-switch
+https://www.nintendo.com/amiibo/games/detail/pokken-tournament-wii-u
 https://www.nintendo.com/amiibo/games/detail/poochy-and-yoshis-woolly-world-3ds
 https://www.nintendo.com/amiibo/games/detail/splatoon-2-switch
 https://www.nintendo.com/amiibo/games/detail/splatoon-wii-u
@@ -837,6 +847,7 @@ https://www.nintendo.com/amiibo/games/detail/star-fox-guard-wii-u
 https://www.nintendo.com/amiibo/games/detail/star-fox-zero-wii-u
 https://www.nintendo.com/amiibo/games/detail/style-savvy-fashion-forward-3ds
 https://www.nintendo.com/amiibo/games/detail/style-savvy-styling-star-3ds
+https://www.nintendo.com/amiibo/games/detail/super-mario-maker-wii-u
 https://www.nintendo.com/amiibo/games/detail/super-mario-odyssey-switch
 https://www.nintendo.com/amiibo/games/detail/super-smash-bros-for-nintendo-3ds
 https://www.nintendo.com/amiibo/games/detail/super-smash-bros-for-wii-u
@@ -857,6 +868,7 @@ https://www.nintendo.com/app/answers/detail/a_id/1087
 https://www.nintendo.com/app/answers/detail/a_id/10925
 https://www.nintendo.com/app/answers/detail/a_id/1098/p/431
 https://www.nintendo.com/app/answers/detail/a_id/1124
+https://www.nintendo.com/app/answers/detail/a_id/1126
 https://www.nintendo.com/app/answers/detail/a_id/11275
 https://www.nintendo.com/app/answers/detail/a_id/1136
 https://www.nintendo.com/app/answers/detail/a_id/12427
@@ -864,6 +876,7 @@ https://www.nintendo.com/app/answers/detail/a_id/1286
 https://www.nintendo.com/app/answers/detail/a_id/1291/p/431
 https://www.nintendo.com/app/answers/detail/a_id/14169
 https://www.nintendo.com/app/answers/detail/a_id/14169/p/430
+https://www.nintendo.com/app/answers/detail/a_id/15217
 https://www.nintendo.com/app/answers/detail/a_id/1535/p/431
 https://www.nintendo.com/app/answers/detail/a_id/15574
 https://www.nintendo.com/app/answers/detail/a_id/15575
@@ -1013,6 +1026,7 @@ https://www.nintendo.com/app/social/questions/detail/qid/60
 https://www.nintendo.com/app/social/questions/detail/qid/61
 https://www.nintendo.com/app/social/questions/detail/qid/89678
 https://www.nintendo.com/app/social/questions/detail/qid/90009
+https://www.nintendo.com/app/social/questions/detail/qid/90010
 https://www.nintendo.com/app/social/questions/detail/qid/90014
 https://www.nintendo.com/app/social/questions/detail/qid/90015
 https://www.nintendo.com/app/social/questions/detail/qid/90016
@@ -1043,6 +1057,7 @@ https://www.nintendo.com/authorize_age_gate?redirect_after=5&redirect_uri=https%
 https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2F&redirect_after=5
 https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fec.nintendo.com%252Foauth2%252Fcallback%26response_type%3Dcode%2Bid_token%26client_id%3De56201e414c97a10%26scope%3Dopenid%2Boffline%2Buser%2Buser.links.nintendoNetwork.id%26state%3D76e06dec-3594-4582-b786-fd8bc938d30a&redirect_after=5
 https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fec.nintendo.com%252Foauth2%252Fcallback%26response_type%3Dcode%2Bid_token%26client_id%3De56201e414c97a10%26state%3D05a0f47b-241f-4cdb-9dc8-48a57a7a865f%26scope%3Dopenid%2Boffline%2Buser%2Buser.links.nintendoNetwork.id
+https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fec.nintendo.com%252Foauth2%252Fcallback%26response_type%3Dcode%2Bid_token%26client_id%3De56201e414c97a10%26state%3Dcda95e7e-022a-44b2-808c-f48e1a677052%26scope%3Dopenid%2Boffline%2Buser%2Buser.links.nintendoNetwork.id&redirect_after=5
 https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fec.nintendo.com%252Foauth2%252Fcallback%26response_type%3Dcode%2Bid_token%26state%3D367f2536-65e1-40c4-9d0c-9d3fa93a1820%26client_id%3De56201e414c97a10%26scope%3Dopenid%2Boffline%2Buser%2Buser.links.nintendoNetwork.id&redirect_after=5
 https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fec.nintendo.com%252Foauth2%252Fcallback%26scope%3Dopenid%2Boffline%2Buser%2Buser.links.nintendoNetwork.id%26state%3D1cb6bcc8-56b4-4e24-8788-b7eb6a9ac10a%26response_type%3Dcode%2Bid_token%26client_id%3De56201e414c97a10&redirect_after=5
 https://www.nintendo.com/authorize_age_gate?redirect_uri=https%3A%2F%2Faccounts.nintendo.com%2Fconnect%2F1.0.0%2Fauthorize%3Fresponse_type%3Dcode%2Bid_token%26redirect_uri%3Dhttps%253A%252F%252Fec.nintendo.com%252Foauth2%252Fcallback%26client_id%3De56201e414c97a10%26scope%3Dopenid%2Boffline%2Buser%2Buser.links.nintendoNetwork.id%26state%3Deb6c15de-a439-4e22-bb8f-35976f1c5de8&redirect_after=5
@@ -1095,6 +1110,7 @@ https://www.nintendo.com/consumer/downloads/SPR_healthsafety_fr.pdf
 https://www.nintendo.com/consumer/downloads/SPR_healthsafety_sp.pdf
 https://www.nintendo.com/consumer/downloads/UTL_healthsafety_eng.pdf
 https://www.nintendo.com/consumer/downloads/UTL_healthsafety_fr.pdf
+https://www.nintendo.com/consumer/es_na/index.jsp
 https://www.nintendo.com/consumer/future.jsp
 https://www.nintendo.com/consumer/gameplay/index.jsp
 https://www.nintendo.com/consumer/index.jsp
@@ -1318,6 +1334,7 @@ https://www.nintendo.com/games/detail/bye-bye-boxboy-3ds
 https://www.nintendo.com/games/detail/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/
 https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-3ds
 https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch
+https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch#retailers
 https://www.nintendo.com/games/detail/castlevania-lords-of-shadow-mirror-of-fate-3ds
 https://www.nintendo.com/games/detail/cave-story-3ds
 https://www.nintendo.com/games/detail/cave-story-plus-switch
@@ -1359,6 +1376,7 @@ https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch
 https://www.nintendo.com/games/detail/fire-emblem-warriors-switch
 https://www.nintendo.com/games/detail/firewatch-switch
 https://www.nintendo.com/games/detail/flip-wars-switch
+https://www.nintendo.com/games/detail/fortnite-switch
 https://www.nintendo.com/games/detail/fortnite-switch/
 https://www.nintendo.com/games/detail/freakyforms-deluxe-your-creations-alive-3ds
 https://www.nintendo.com/games/detail/freedom-planet-wii-u
@@ -1376,6 +1394,7 @@ https://www.nintendo.com/games/detail/gunman-clive-hd-collection-wii-u
 https://www.nintendo.com/games/detail/gurumin-3d-a-monstrous-adventure-3ds
 https://www.nintendo.com/games/detail/hey-pikmin-3ds
 https://www.nintendo.com/games/detail/hollow-knight-switch
+https://www.nintendo.com/games/detail/hotline-miami-collection-switch
 https://www.nintendo.com/games/detail/hyper-light-drifter-special-edition-switch
 https://www.nintendo.com/games/detail/hyrule-warriors-switch
 https://www.nintendo.com/games/detail/ikachan-3ds
@@ -1423,9 +1442,12 @@ https://www.nintendo.com/games/detail/mario-tennis-3ds
 https://www.nintendo.com/games/detail/mario-tennis-aces-switch
 https://www.nintendo.com/games/detail/mario-tennis-open-3ds
 https://www.nintendo.com/games/detail/mario-vs-donkey-kong-tipping-stars-3ds
+https://www.nintendo.com/games/detail/mario-vs-donkey-kong-tipping-stars-wii-u
 https://www.nintendo.com/games/detail/marvel-ultimate-alliance-3-the-black-order-switch
 https://www.nintendo.com/games/detail/mega-man-legacy-collection-2-switch
 https://www.nintendo.com/games/detail/mega-man-legacy-collection-switch
+https://www.nintendo.com/games/detail/metroid-samus-returns-3ds
+https://www.nintendo.com/games/detail/mighty-gunvolt-3ds
 https://www.nintendo.com/games/detail/mighty-gunvolt-burst-switch
 https://www.nintendo.com/games/detail/mighty-switch-force-3ds
 https://www.nintendo.com/games/detail/miitopia-3ds
@@ -1452,9 +1474,11 @@ https://www.nintendo.com/games/detail/nintendogs-cats-french-bulldog-new-friends
 https://www.nintendo.com/games/detail/nintendogs-cats-golden-retriever-and-new-friends-3ds
 https://www.nintendo.com/games/detail/nintendogs-cats-toy-poodle-new-friends-3ds
 https://www.nintendo.com/games/detail/noitu-love-devolution-3ds
+https://www.nintendo.com/games/detail/northgard-switch
 https://www.nintendo.com/games/detail/nuclear-throne-switch
 https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch
 https://www.nintendo.com/games/detail/outlast-bundle-of-terror-switch
+https://www.nintendo.com/games/detail/overcooked-2-switch#retailers
 https://www.nintendo.com/games/detail/overcooked-special-edition-switch
 https://www.nintendo.com/games/detail/overwatch-legendary-edition-switch
 https://www.nintendo.com/games/detail/overwhelm-switch
@@ -1470,6 +1494,7 @@ https://www.nintendo.com/games/detail/pokemon-bank-3ds
 https://www.nintendo.com/games/detail/pokemon-blue-version-3ds
 https://www.nintendo.com/games/detail/pokemon-crystal-version-3ds
 https://www.nintendo.com/games/detail/pokemon-gold-version-3ds
+https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch
 https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch
 https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch#retailers
 https://www.nintendo.com/games/detail/pokemon-moon-3ds
@@ -1483,6 +1508,7 @@ https://www.nintendo.com/games/detail/pokemon-shield-switch
 https://www.nintendo.com/games/detail/pokemon-shuffle-3ds
 https://www.nintendo.com/games/detail/pokemon-silver-version-3ds
 https://www.nintendo.com/games/detail/pokemon-sun-3ds
+https://www.nintendo.com/games/detail/pokemon-sword-and-pokemon-shield-double-pack-switch
 https://www.nintendo.com/games/detail/pokemon-sword-switch
 https://www.nintendo.com/games/detail/pokemon-ultra-moon-3ds
 https://www.nintendo.com/games/detail/pokemon-ultra-sun-3ds
@@ -1529,6 +1555,7 @@ https://www.nintendo.com/games/detail/super-mario-3d-land-3ds
 https://www.nintendo.com/games/detail/super-mario-3d-world-wii-u
 https://www.nintendo.com/games/detail/super-mario-bros-2-3ds
 https://www.nintendo.com/games/detail/super-mario-bros-2-wii-u
+https://www.nintendo.com/games/detail/super-mario-bros-3-3ds
 https://www.nintendo.com/games/detail/super-mario-bros-3-wii-u
 https://www.nintendo.com/games/detail/super-mario-bros-3ds
 https://www.nintendo.com/games/detail/super-mario-bros-deluxe-3ds
@@ -1567,6 +1594,7 @@ https://www.nintendo.com/games/detail/the-flame-in-the-flood-complete-edition-sw
 https://www.nintendo.com/games/detail/the-jackbox-party-pack-6-switch
 https://www.nintendo.com/games/detail/the-keep-3ds
 https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds
+https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-to-the-past-3ds
 https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch
 https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch
 https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch#retailers
@@ -1682,6 +1710,7 @@ https://www.nintendo.com/ippolicy_fr.jsp
 https://www.nintendo.com/ippolicy_pt.jsp
 https://www.nintendo.com/job-openings/
 https://www.nintendo.com/kits/
+https://www.nintendo.com/kits/customization-set/
 https://www.nintendo.com/kits/robot-kit/
 https://www.nintendo.com/kits/vehicle-kit/
 https://www.nintendo.com/kits/vr-kit/
@@ -1705,6 +1734,7 @@ https://www.nintendo.com/manuals/precautions_handheld_french.jsp
 https://www.nintendo.com/manuals/precautions_handheld_spanish.jsp
 https://www.nintendo.com/map
 https://www.nintendo.com/media/
+https://www.nintendo.com/media/pics/
 https://www.nintendo.com/media/videos/
 https://www.nintendo.com/media/wallpapers/
 https://www.nintendo.com/memorycards.jsp
@@ -1786,6 +1816,7 @@ https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93
 https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat870669
 https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat870670
 https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat870671
+https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat870672
 https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat870673
 https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat920009
 https://www.nintendo.com/ng3/browse/subcategory.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryId=cat930071&navAction=pop&navCount=0
@@ -1880,6 +1911,7 @@ https://www.nintendo.com/ng3/us/po/browse/category.jsp?categoryId=cat831448
 https://www.nintendo.com/ng3/us/po/browse/category.jsp?categoryId=cat860032
 https://www.nintendo.com/ng3/us/po/browse/category.jsp?categoryId=cat870647
 https://www.nintendo.com/ng3/us/po/browse/category.jsp?categoryId=cat960146
+https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=-4M7D8GmdRv2Agg5G7hubNJKYbGtpbHMsUfcW2ZOmAkZ6BXWcAwg!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1000220&categoryId=cat980175
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=-4M7D8GmdRv2Agg5G7hubNJKYbGtpbHMsUfcW2ZOmAkZ6BXWcAwg!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1000975&categoryId=cat870210
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=-4M7D8GmdRv2Agg5G7hubNJKYbGtpbHMsUfcW2ZOmAkZ6BXWcAwg!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1040031&categoryId=cat870668
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=-4M7D8GmdRv2Agg5G7hubNJKYbGtpbHMsUfcW2ZOmAkZ6BXWcAwg!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1060171&categoryId=cat870210
@@ -1905,6 +1937,7 @@ https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsess
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930090&categoryId=cat960149
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930092&categoryId=cat960149
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930095&categoryId=cat960149
+https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930096&categoryId=cat960149
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930097&categoryId=cat960149
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930098&categoryId=cat960149
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=97g7D7KLb1Sfgyjp0rJGHPQOMgswK0vH65wlUccYsJl9c-ODsa0P!535311072?productId=prod930099&categoryId=cat960149
@@ -1934,6 +1967,7 @@ https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsess
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=TFU7EAGvQsL8fREj-v4QthvVPY8P6p6BkE8r7HVs5i4OtJMZEZRb!1981393774?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1060171&categoryId=cat870210
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=TFU7EAGvQsL8fREj-v4QthvVPY8P6p6BkE8r7HVs5i4OtJMZEZRb!1981393774?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod880583&categoryId=cat970129
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=TFU7EAGvQsL8fREj-v4QthvVPY8P6p6BkE8r7HVs5i4OtJMZEZRb!1981393774?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod880691&categoryId=cat970130
+https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=TFU7EAGvQsL8fREj-v4QthvVPY8P6p6BkE8r7HVs5i4OtJMZEZRb!1981393774?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod970055&categoryId=cat960088
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=WgQ7D3g7wKF6TYqTLtZoilxxaBLuAy5OWiqk4SNxyCfkP3WcQgEd!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1000220&categoryId=cat980175
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=WgQ7D3g7wKF6TYqTLtZoilxxaBLuAy5OWiqk4SNxyCfkP3WcQgEd!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1000975&categoryId=cat870210
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=WgQ7D3g7wKF6TYqTLtZoilxxaBLuAy5OWiqk4SNxyCfkP3WcQgEd!535311072?categoryNav=false&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1040025&categoryId=cat870649
@@ -1951,6 +1985,7 @@ https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsess
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1000978&categoryId=cat930071
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod1040025&categoryId=cat930071
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod880109&categoryId=cat930071
+https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod921243&categoryId=cat930071
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod940053&categoryId=cat930071
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod940257&categoryId=cat930071
 https://www.nintendo.com/ng3/us/po/browse/productDetailColorSizePicker.jsp;jsessionid=eTo7EBl4xw6njtl93M4aWpQCHC7QC1LYKeQ2kxmYMBLDMV7fWOYQ!535311072?categoryNav=true&navAction=jump&navCount=0&atg.multisite.remap=false&productId=prod940700&categoryId=cat930071
@@ -1994,10 +2029,12 @@ https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat581115
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat750772
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat831379
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat831380
+https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat831381
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat860034
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat860035
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat870084
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat870210
+https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat870649
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat870667
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat870669
 https://www.nintendo.com/ng3/us/po/browse/subcategory.jsp?categoryId=cat870670
@@ -2084,6 +2121,7 @@ https://www.nintendo.com/region_select.jsp?l=&d=&r=it_it&s=
 https://www.nintendo.com/region_select.jsp?l=&d=&r=ja_jp&s=
 https://www.nintendo.com/region_select.jsp?l=&d=&r=pt_bz&s=
 https://www.nintendo.com/repair/repair_charts_agb.jsp
+https://www.nintendo.com/repair/repair_charts_gcn.jsp
 https://www.nintendo.com/repair/repair_charts_sp.jsp
 https://www.nintendo.com/retail/retail_replacementparts.jsp
 https://www.nintendo.com/retro-studios/
@@ -2095,6 +2133,7 @@ https://www.nintendo.com/sponsorship.jsp
 https://www.nintendo.com/starlight.jsp
 https://www.nintendo.com/story
 https://www.nintendo.com/story/
+https://www.nintendo.com/strapreplace.jsp
 https://www.nintendo.com/super-nes-classic/
 https://www.nintendo.com/super-nes-classic/interview-f-zero
 https://www.nintendo.com/super-nes-classic/interview-kirby
@@ -2176,6 +2215,7 @@ https://www.nintendo.com/trouble_accessory.jsp
 https://www.nintendo.com/trouble_accessory.jsp#wavebird
 https://www.nintendo.com/trouble_alldisc.jsp
 https://www.nintendo.com/trouble_lines.jsp
+https://www.nintendo.com/trouble_liquid.jsp
 https://www.nintendo.com/trouble_other.jsp
 https://www.nintendo.com/trouble_power.jsp
 https://www.nintendo.com/trouble_screenbrightness.jsp
