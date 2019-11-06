@@ -2,16 +2,22 @@ import os
 import sqlite3
 from sqlite3 import Error
 
-		
-def create_project_dir(directory):
-	if not os.path.exists(directory):
-		print('Creating Project Directory ' + directory)
-		os.makedirs(directory)
-		db_dir = directory + '/Database'
-		print('Crating Database directory ' + db_dir)
-		os.makedirs(db_dir)
-		
-create_project_dir('nintendo')
-
+def create_connection(db_file):
+    """ create a database connection to a SQLite database """
+    conn = None
+    try:
+        conn = sqlite3.connect(db_file)
+        print(sqlite3.version)
+    except Error as e:
+        print(e)
+    finally:
+        if conn:
+            conn.close()
+ 
+ 
+if __name__ == '__main__':
+	if not os.path.exists('Database'):
+		os.makedirs('Database')
+		create_connection(r"Database/testsqliteDB.db")
 
 
