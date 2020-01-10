@@ -17,15 +17,15 @@ def get_sub_domain_name(url):
     except:
         return ''
 
-    
-## get first element in  url path   
+
+# get first element in  url path
 def get_first_elm_path(url):
     try:
         path = get_url_path(url).split("/")
         return path[1]
     except:
         return ''
-    
+
 
 # Get path in url after Domain (domain/<path>/)
 def get_url_path(url):
@@ -33,4 +33,3 @@ def get_url_path(url):
         return urlparse(url).path
     except:
         return ''
-    
