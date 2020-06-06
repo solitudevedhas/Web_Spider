@@ -1,9 +1,9 @@
 # import ssl
 # import threading
 # from queue import Queue
-# from web_spider.spider import Spider
-# from web_spider.domain import *
-# from web_spider.general import *
+# from Spider.Crawler import Crawler
+# from Spider.Crawler.domain import *
+# from Spider.Crawler.general import *
 
 
 # Deal with SSL certification Error
